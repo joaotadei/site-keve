@@ -1064,7 +1064,7 @@ a:focus, a:hover {
 
 /* homepage 3 */
 .gradient-banner {
-  padding: 100px 0 170px;
+  padding: 0px 0 10px;
   position: relative;
   overflow: hidden;
 }
